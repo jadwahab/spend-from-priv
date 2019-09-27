@@ -176,7 +176,7 @@ class Spend extends Component {
     }
 
     try {
-      pubKeyTo = new bsv.PublicKey(this.state.pubkey);
+      pubKeyTo = new bsv.Address.fromString(this.state.pubkey);
       this.setState({
         properFormatPubKey: true
       });
@@ -231,7 +231,7 @@ class Spend extends Component {
                 content: "Create Tx",
                 onClick: () => this.handleSubmit()
               }}
-              placeholder="Send to Public Key (in compressed format)"
+              placeholder="Send Bitcoin Address (P2PKH)"
               style={{ justifyContent: "center", width: "535px" }}
               onChange={this.handleChange}
               name="pubkey"

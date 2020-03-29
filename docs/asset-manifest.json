@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/spend-from-priv/static/css/main.34de6062.chunk.css",
+    "main.js": "/spend-from-priv/static/js/main.1b2f2a18.chunk.js",
+    "main.js.map": "/spend-from-priv/static/js/main.1b2f2a18.chunk.js.map",
+    "runtime-main.js": "/spend-from-priv/static/js/runtime-main.ca4d4879.js",
+    "runtime-main.js.map": "/spend-from-priv/static/js/runtime-main.ca4d4879.js.map",
+    "static/css/2.7530b3b5.chunk.css": "/spend-from-priv/static/css/2.7530b3b5.chunk.css",
+    "static/js/2.bbdaa6b3.chunk.js": "/spend-from-priv/static/js/2.bbdaa6b3.chunk.js",
+    "static/js/2.bbdaa6b3.chunk.js.map": "/spend-from-priv/static/js/2.bbdaa6b3.chunk.js.map",
+    "index.html": "/spend-from-priv/index.html",
+    "precache-manifest.afefc04dc2cf309c860a62cf8c60a9eb.js": "/spend-from-priv/precache-manifest.afefc04dc2cf309c860a62cf8c60a9eb.js",
+    "service-worker.js": "/spend-from-priv/service-worker.js",
+    "static/css/2.7530b3b5.chunk.css.map": "/spend-from-priv/static/css/2.7530b3b5.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/spend-from-priv/static/css/main.34de6062.chunk.css.map",
+    "static/media/semantic.min.css": "/spend-from-priv/static/media/outline-icons.ef60a4f6.woff"
+  }
+}
